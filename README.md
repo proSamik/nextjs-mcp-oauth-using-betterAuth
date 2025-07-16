@@ -1,6 +1,6 @@
 # nextjs-mcp-oauth-using-betterAuth
 
-# Video URL- 
+# Video URL- https://www.youtube.com/watch?v=VrW776GT-MQ
 
 # GitHub Repo- [NextJs Reference Repo mentioned in video (branch- feat-mcp-auth)](https://github.com/proSamik/mcp-twitter-nextjs/tree/feat-mcp-auth)
 
