@@ -1,8 +1,13 @@
-# nextjs-mcp-oauth-using-betterAuth
+# Guide Docs
 
-# Video URL for Data flow understanding- https://www.youtube.com/watch?v=VrW776GT-MQ
+# MCP Data flow understanding- 
+- [Video](https://youtu.be/25vYICLt9bk)
+- [Practical Tips PNG](./practical-tips.png)
+- [ExcaliDraw File](./PracticalTips.excalidraw)
+- [PDF](./practical-tips.pdf)
 
-# Video URL for Code Explaination- https://www.youtube.com/watch?v=VrW776GT-MQ
+# Video URL for Code Explaination- 
+- [Video](https://www.youtube.com/watch?v=VrW776GT-MQ)
 
 # GitHub Repo- [NextJs Reference Repo mentioned in video (branch- feat-mcp-auth)](https://github.com/proSamik/mcp-twitter-nextjs/tree/feat-mcp-auth)
 
