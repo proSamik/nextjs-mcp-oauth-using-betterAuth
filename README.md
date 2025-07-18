@@ -19,3 +19,8 @@
 - npx @modelcontextprotocol/inspector
 
 
+# 3 Summarised ways to build MCP server with Auth-
+- [Video URL](https://youtu.be/8cK7DV9TlFo)
+- [Github Repo: (branch: feat-mcp-auth-NextResponse)](https://github.com/proSamik/mcp-twitter-nextjs/tree/feat-mcp-auth-NextResponse)
+
+
