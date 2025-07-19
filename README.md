@@ -1,7 +1,7 @@
 # Guide Docs
 
 # Social Media Scheduler:
-- [Video]()
+- [Video](https://youtu.be/Wq0yWGx7xlQ)
 - [Github Repo: (branch: feat-thread-post)](https://github.com/proSamik/mcp-twitter-nextjs/tree/feat-thread-post)
 
 # MCP Data flow understanding- 
