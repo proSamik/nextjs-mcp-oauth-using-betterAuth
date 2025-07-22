@@ -32,4 +32,5 @@
 # MCP Explained Like I'm 5
 - [Video URL](https://www.youtube.com/watch?v=EWQG9ssfGDk)
 - [PDF](./MCP-explaination.pdf)
+- [Excali Draw File](./MCP-explaination.excalidraw)
 
