@@ -29,3 +29,7 @@
 - [Github Repo: (branch: feat-mcp-auth-NextResponse)](https://github.com/proSamik/mcp-twitter-nextjs/tree/feat-mcp-auth-NextResponse)
 
 
+# MCP Explained Like I'm 5
+- [Video URL](https://www.youtube.com/watch?v=EWQG9ssfGDk)
+- [PDF](./MCP-explaination.pdf)
+
